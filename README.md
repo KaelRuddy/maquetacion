@@ -1,2 +1,2 @@
-# maquetacion
-Maquetacion con HTML y CSS
+# MAQUETACIÓN
+Maquetación con HTML y CSS
